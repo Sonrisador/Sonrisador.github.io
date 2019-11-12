@@ -1,6 +1,6 @@
 # Sonrisador.github.io
 <html>
-  <script type="text/javascript">
+  <script>
 var name = "Clare";
   console.log(name);
 </script>
