@@ -3,5 +3,5 @@
   <script>
 var name = "Clare";
   console.log(name);
-</script>
-</html>
+<\script>
+<\html>
