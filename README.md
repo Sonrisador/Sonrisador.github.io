@@ -6,3 +6,9 @@ Website
 ~ $ git add --all
 ~ $ git commit -m "Initial commit"
 ~ $ git push -u origin master
+
+
+<script type="text/javascript">
+var List = ["Clare","Lily];
+  console.log(List[1]);
+</script>
